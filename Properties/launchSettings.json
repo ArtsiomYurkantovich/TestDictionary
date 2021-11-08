@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestDictionary": {
+      "commandName": "Project",
+      "commandLineArgs": "\"dictionary.txt\" \"testWords.txt\" \"NewTestWords.txt\""
+    }
+  }
+}
